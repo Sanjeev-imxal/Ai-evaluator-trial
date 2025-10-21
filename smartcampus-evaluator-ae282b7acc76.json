@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "smartcampus-evaluator",
+  "private_key_id": "ae282b7acc76a5cce1f071761df37c6f13d54056",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCybQKvKn/8MdSN\nVmE+6dPgt2EQa/10HlISam9gj49rQPsXLXxaZ9Up7Lf1pDbJ8R2Nx3rKLwR9l6jE\n7S+mD2MWoRWUBVXqw/pvs5SjlQkdUwxCjKGtEBI+71OG0yG/k73btNlKgpVOCMUh\noT1RWatHbO7n1CT3yY81jMGswtLwxafGj3maxoyfDjSN1VVaz2RrY52cDBOV5Iag\nm989Gi4biKa+ILMdbllFc0cLtmvM8guhUcwP98hwmDEwlyIA95B2hrjxiDudgpdh\n3CjZhjWc0LKtfiGnDZNK71LZKUJ7fFdomVjzGXUKuawZZ3D6CZ8XtyY6dK/UIJSm\nNloAakbnAgMBAAECggEABvMkpYXRkJVKTHg+xAoS+Cl8ZnzZiI8KLr0/+fItkAWe\nCIcuu4C+3OnjbA+wGKNdJAgbxsmx2Mh+/BV3A5Am3mgUCv0LamA+0XoC6KPZKomK\nrGiFsm1+7T4G/vUbVx1ElszpB83YgSUc58eIt8uQo3DhSPaXVNV56aHCOERdN6As\nLZ8wXTVjtYy0GnpClhY9qLKeXkdk0aaTULgQNJr9lKqvrDUQnhedf0MiLrnMwEyx\nRM40tddEv1r0eoiB01PlHyBuBFoxUVG9frwEcRB+4pdHh+JIFwsGRcf3q2n/iCmH\nikWKE91/briKRrENt/ucsJzXxeyK5BBMoiEGfZlcUQKBgQDpVF8LV48AFS4n3shK\nU9O25ocfmLVa4WudAJCQAP2Kg+OPzaOrFrNgyupcIdacIv/G/dLsOdI3SI3cTcuy\nQtQKLy1bZ7KnD6728YONKYSk/SR37libvl4wTsEqmOjpfu2h/pD5DWxjwPKPpTmi\nvyr1uMrWSTT13+G3T6aWGfZz0QKBgQDDwwNQP0pZz1ywjY8grJ9rjpnvk76MO9Qv\nr32IZBODr4a6pZnhkieXZ3KE79VA3eFNi1RIBNeORAo6V2YKnvKhUttU5UOY1cQZ\n24zzJhQ+RS2i5bce8V5QXIVhgY+RpF6udEiz/xxs4KQFeaGqOUCIjgOcMXC+owZi\nQ6v+Z5NVNwKBgDsfM84N66AbvcxAeQPMZdLsasSozxsuDzSDFh5HAfd9H8YqVxRc\n9irKf8PElzqM676iRjWxGQEFE10FIV4T7OJ/vcBxcCVAphbQb4LvSDr+IaV58V3V\nSMx4yB1hDXNMxC3N8TIKIrLMCyo2tXn1co88ubi+Z/r9NZZbSlyyS25hAoGBAIAP\neoNsY78Mn53/fLnrMv6xcpH/HI+wM8ZeDsjCbuGeWYyP+HJPogaxbYD5Q5ADlfec\nRa43PKucZvRzaBValW5jPYfz0pyQepBPx4zoRCXYK1p826YqT4BShg6bKsgjtqx4\n9XaKVJYE/kd2ogMxIL4z6Lisvwx2qR5vFnx+VStRAoGAB032qhC9OGgRFelfzy0I\nIBE3F3U5VPeJSzPALBMgM8Q6oIciQJbx3n/Q1HeHsdKFOwgFRbeAkqBjcfun+dhO\npNW3VI2vpdK/91zawE6wyamCDvdloti6cGvU/h+6jDatr0+jJBJiGAZWcYQc/7It\ng06Q3BvKrKWSl9K4HNQI5GQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sanjeevimxal@smartcampus-evaluator.iam.gserviceaccount.com",
+  "client_id": "114261383745413016853",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sanjeevimxal%40smartcampus-evaluator.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
