@@ -1,5 +1,2 @@
 streamlit
-pytesseract
-pdf2image
-Pillow
-opencv-python-headless
+google-cloud-vision
